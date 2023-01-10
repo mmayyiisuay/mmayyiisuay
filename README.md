@@ -8,12 +8,15 @@ you can call me morjor 🫶🏻 <br>
   <img src="https://media.giphy.com/media/y2mDT8Cdp7ExG/giphy.gif?cid=ecf05e47mqzu7ac81onl037341f41j23kqearhkzv4ifgtns&rid=giphy.gif&ct=g" width="500"/>
 </div>
 
-
+<br>
 🫧 acculy I’m currently (try to ;-;) learning : Front-End , UX/UI desing , Cyber Security , Web-dev & more TT-TT
 
-📫 reach me :  [instragram](https://www.instagram.com/mmayyiisuay/) , [Gmail](natchasuaysaard@gmail.com)
+📫 reach me :  [instragram](https://www.instagram.com/mmayyiisuay/) , [mail](natchasuaysaard@gmail.com)
 
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+</div>
 <!--
 **mmayyiisuay/mmayyiisuay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
