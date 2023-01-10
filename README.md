@@ -4,10 +4,9 @@ my name : Mayji
 you can call me morjor 🫶🏻
 ( she/her )
 
-- 🫧 acculy I’m currently (try to ;-;) learning : Front-End , UX/UI desing , Cyber Security , Web-dev & more TT-TT
+🫧 acculy I’m currently (try to ;-;) learning : Front-End , UX/UI desing , Cyber Security , Web-dev & more TT-TT
 
-- 📫 reach me :  [instragram](https://www.instagram.com/mmayyiisuay/)<br>
-                  natchasuaysaard@gmail.com
+📫 reach me :  [instragram](https://www.instagram.com/mmayyiisuay/)<br> , [Gmail](natchasuaysaard@gmail.com)<br>
 
 
 <!--
