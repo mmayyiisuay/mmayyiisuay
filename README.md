@@ -19,7 +19,7 @@ you can call me morjor 🫶🏻 <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/mmayyiisuay)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mmayyiisuay/mmayyiisuay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
