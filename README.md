@@ -1,12 +1,12 @@
 ### Hi there 👋 !
 
-my name : Mayji
-you can call me morjor 🫶🏻
-( she/her )
+my name : Mayji <br>
+you can call me morjor 🫶🏻 <br>
+( she/her ) <br>
 
 🫧 acculy I’m currently (try to ;-;) learning : Front-End , UX/UI desing , Cyber Security , Web-dev & more TT-TT
 
-📫 reach me :  [instragram](https://www.instagram.com/mmayyiisuay/)<br> , [Gmail](natchasuaysaard@gmail.com)<br>
+📫 reach me :  [instragram](https://www.instagram.com/mmayyiisuay/) , [Gmail](natchasuaysaard@gmail.com)
 
 
 <!--
