@@ -1,12 +1,12 @@
 ### Hi there 👋 !
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/y2mDT8Cdp7ExG/giphy.gif?cid=ecf05e47mqzu7ac81onl037341f41j23kqearhkzv4ifgtns&rid=giphy.gif&ct=g" width="500"/>
+</div>
 my name : Mayji <br>
 you can call me morjor 🫶🏻 <br>
 ( she/her ) <br>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/y2mDT8Cdp7ExG/giphy.gif?cid=ecf05e47mqzu7ac81onl037341f41j23kqearhkzv4ifgtns&rid=giphy.gif&ct=g" width="500"/>
-</div>
+
 
 <br>
 🫧 acculy I’m currently (try to ;-;) learning : Front-End , UX/UI desing , Cyber Security , Web-dev & more TT-TT
@@ -18,6 +18,8 @@ you can call me morjor 🫶🏻 <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/mmayyiisuay/github-readme-stats)
 <!--
 **mmayyiisuay/mmayyiisuay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
