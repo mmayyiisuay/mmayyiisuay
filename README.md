@@ -4,6 +4,11 @@ my name : Mayji <br>
 you can call me morjor 🫶🏻 <br>
 ( she/her ) <br>
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/y2mDT8Cdp7ExG/giphy.gif?cid=ecf05e47mqzu7ac81onl037341f41j23kqearhkzv4ifgtns&rid=giphy.gif&ct=g)" width="100"/>
+</div>
+
+
 🫧 acculy I’m currently (try to ;-;) learning : Front-End , UX/UI desing , Cyber Security , Web-dev & more TT-TT
 
 📫 reach me :  [instragram](https://www.instagram.com/mmayyiisuay/) , [Gmail](natchasuaysaard@gmail.com)
