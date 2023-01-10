@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 !
+
+my name : Mayji
+you can call me morjor 🫶🏻
+( she/her )
+
+- 🫧 acculy I’m currently (try to ;-;) learning : Front-End , UX/UI desing , Cyber Security , Web-dev & more TT-TT
+
+- 📫 reach me :  [instragram](https://www.instagram.com/mmayyiisuay/)<br>
+                  natchasuaysaard@gmail.com
+
 
 <!--
 **mmayyiisuay/mmayyiisuay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
