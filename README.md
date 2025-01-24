@@ -14,7 +14,7 @@ you can call me morjor 🫶🏻 <br>
 <br>
 🫧 acculy I’m currently (try to ;-;) learning : Front-End , UX/UI design , Cyber Security , Web-dev & more , automate testing TT-TT
 
-📫 reach me :  [instragram](https://www.instagram.com/mmayyiisuay/) , [mail](natchasuaysaard@gmail.com)
+📫 reach me :  [instagram](https://www.instagram.com/mmayyiisuay/) , [mail](natchasuaysaard@gmail.com)
 
 ## practicing in 💪🏻
 <div class="flex align="center"">
